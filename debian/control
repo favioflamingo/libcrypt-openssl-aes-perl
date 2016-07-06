@@ -1,0 +1,12 @@
+Source: libcrypt-openssl-aes-perl
+Section: unknown
+Priority: optional
+Maintainer: Joel DeJesus <dejesus.joel@e-flamingo.jp>
+Build-Depends: debhelper (>= 9), libssl-dev
+Standards-Version: 3.9.5
+
+Package: libcrypt-openssl-aes-perl
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Openssl wrapper for AES
+ Openssl wrapper for AES. Crypt::OpenSSL::AES
