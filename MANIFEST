@@ -1,0 +1,12 @@
+AES.xs
+Changes
+hints/MSWin32.pl
+lib/Crypt/OpenSSL/AES.pm
+Makefile.PL
+MANIFEST
+META.yml			Module meta-data (added by MakeMaker)
+ppport.h
+README
+t/Crypt-OpenSSL-AES.t
+typemap
+META.json                                Module JSON meta-data (added by MakeMaker)
